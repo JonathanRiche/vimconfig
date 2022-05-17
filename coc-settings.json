@@ -1,0 +1,18 @@
+{
+  //"coc.preferences.semanticTokensHighlights": false,
+  "suggest.noselect": false,
+  "eslint.nodePath": "/home/user/.config/yarn/global/node_modules",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "rust",
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "javascriptreact",
+    "typescript.tsx",
+    "svelte"
+    //"graphql"
+    //"html"
+  ],
+  "markdownlint.onSave": true
+}
